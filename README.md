@@ -22,7 +22,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### Machine Learning
 
-TODO
+1. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (with TensorFlow APIs) by Google
 
 ### Data visualization
 
@@ -30,23 +30,25 @@ TODO
 
 ## Specialization
 
-Inspired by [How to build a data analytics dream team](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-a-data-analytics-dream-team)
+Inspired by [How to build a data analytics dream team](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-a-data-analytics-dream-team).
 
 ### Data engineer
 
-TODO
+1. [Data lakes and data integration with AWS Lake Formation](https://youtu.be/Wk9Hf4cwUFM) (AWS re:Invent 2019)
+2. [Deep dive into AWS Lake Formation - Level 300](https://youtu.be/Aj5T5fcZZr0)
+3. [Building serverless analytics pipelines with AWS Glue](https://youtu.be/S_xeHvP7uMo)
 
 ### Data scientist
 
-TODO
+1. [AWS Glue DataBrew](https://docs.aws.amazon.com/databrew/latest/dg/what-is.html)
 
 ### Data translator
 
-TODO
+1. [Introduction to Amazon QuickSight: Business analytics for everyone](https://youtu.be/WaOrQtxLXfs)
 
 ### Knowledge engineers, ontologists, and more
 
-TODO
+1. [Getting Started with Amazon Neptune](https://pages.awscloud.com/AWS-Learning-Path-Getting-Started-with-Amazon-Neptune_2020_LP_0009-DAT.html)
 
 ## AWS Certifications
 
